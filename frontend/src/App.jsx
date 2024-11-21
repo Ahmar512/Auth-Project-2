@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import { Routes, Route, Navigate } from 'react-router-dom'
 import DashBoardPage from './pages/DashBoardPage'
-import SignUpPage from './pages/signupPage'
+import SignUpPage from './pages/SignupPage'
 import VerifyEmail from './pages/VerifyEmail'
 import LoginPage from './pages/LoginPage'
 import ForgetPassword from './pages/ForgetPassword'
